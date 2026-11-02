@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kamteam.biblestudy",
+    "sha256_cert_fingerprints": ["F6:8F:C0:7B:06:FF:AD:EE:76:A1:29:9E:4F:54:03:3F:82:8F:DB:CD:CE:47:8B:8F:72:D3:10:A9:36:D2:58:73"]
+  }
+}]
